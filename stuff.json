@@ -1,0 +1,20 @@
+[
+    {
+        "product": "apple",
+        "price": "$2",
+        "color": "red"
+    }
+
+    ,
+    {
+        "product": "green apple",
+        "price": "$2",
+        "color": "green"
+    }
+    ,
+    {
+        "product": "orange",
+        "price": "$3",
+        "color": "orange"
+    }
+]
